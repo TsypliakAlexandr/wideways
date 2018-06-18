@@ -2926,7 +2926,7 @@ a.staticslider-button + a.staticslider-button,
 	float: none;
 	clear: both;
 	width: 100%;
-	padding: 5em 0;
+	padding: 2em 0;
 	background-attachment: fixed;
 	background-position : top center;
 	background-size : cover;
@@ -2968,7 +2968,7 @@ a.staticslider-button + a.staticslider-button,
 	display: block;
 	float:none;
 	clear: both;
-	padding: 5em 0;
+	padding:0;
 }
 
 #lp-page #comments {
